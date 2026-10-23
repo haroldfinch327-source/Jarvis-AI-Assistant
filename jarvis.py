@@ -122,3 +122,5 @@ def run_jarvis():
 
 if __name__ == "__main__":
     run_jarvis()
+from dotenv import load_dotenv
+load_dotenv()  # هذا السطر يقرأ ملف .env السري من جهازك تلقائياً
