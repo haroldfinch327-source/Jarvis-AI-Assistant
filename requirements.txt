@@ -4,3 +4,4 @@ pyautogui
 pywhatkit
 google-generativeai
 pyaudio
+python-dotenv
